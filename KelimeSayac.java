@@ -18,8 +18,9 @@ public class KelimeSayac {
 			counter++;
 		}
 		
-		System.out.println(counter);
+		System.out.println("word count: " + counter);
 
 	}
 
 }
+
