@@ -3,7 +3,7 @@ Her biri basit ama pratik kazandıran örnekler.
 
 İçerik:
 
-- **CustomerBalanceManager.java** → Müşteri listesi oluşturur, rastgele bakiyeler atar ve müşterilerin çalışma durumuna göre bakiyeleri günceller.  
+- **CustomerInfoManager.java** → Kullanıcıdan müşteri bilgilerini alır (isim, cinsiyet, iş durumu, bakiye). Ortalama bakiyeye göre faiz/güncelleme yapar, sonuçları raporlar ve cinsiyet dağılımını gösterir. 
 - **EmployeeWorkAnalysis.java** → Çalışanların haftalık çalışma saatlerini hesaplar ve 30 saatin üzerinde çalışanları listeler.  
 - **EmployeeWorkHours.java** → Çalışanların toplam çalışma saatlerini hesaplar, en çok çalışan çalışanı bulur ve maaşlarını belirler.  
 - **HesapMakinesi.java** → Dört işlem yapabilen basit hesap makinesi.  
