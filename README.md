@@ -9,7 +9,8 @@ Her biri basit ama pratik kazandıran örnekler.
 - **HesapMakinesi.java** → Dört işlem yapabilen basit hesap makinesi.  
 - **KelimeSayac.java** → Girilen metindeki kelimelerin sayısını bulur.  
 - **NotOrtalamasinaGoreGecmeKalma.java** → Girilen notların ortalamasına göre öğrencinin geçip geçmediğini gösterir.  
-- **SayiTahminOyunu.java** → Bilgisayarın rastgele tuttuğu sayıyı bulmaya çalıştığınız tahmin oyunu.  
+- **SayiTahminOyunu.java** → Bilgisayarın rastgele tuttuğu sayıyı bulmaya çalıştığınız tahmin oyunu.
+- **AccountNumberValidator.java** → Belirli kurallara göre bir şifre oluşturup sonrasında o şifrenin geçerliliğini kontrol eder.
 
 Kullanılan Temel Konular:
 - Java dilinde döngüler ve koşullar  
