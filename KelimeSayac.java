@@ -1,4 +1,3 @@
-package projeler;
 
 import java.util.Scanner;
 
@@ -23,4 +22,5 @@ public class KelimeSayac {
 	}
 
 }
+
 
